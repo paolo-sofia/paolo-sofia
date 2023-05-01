@@ -15,6 +15,9 @@
 
 - 📫 How to reach me **paolosofia6@gmail.com**
 
+[![Spotify](https://spotify-github-banner.vercel.app/api/spotify)](https://open.spotify.com/user/paolo.s16
+)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://linkedin.com/in/paolosofia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paolosofia" height="30" width="40" /></a>
@@ -30,3 +33,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paolo-sofia&" alt="paolo-sofia" /></p>
 
 <!--START_SECTION:activity-->
+
+
