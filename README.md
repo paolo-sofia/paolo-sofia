@@ -2,7 +2,6 @@
 <h3 align="center">A passionate data scientist working at Xriba from Italy</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=paolo-sofia&icon=2&color=4)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paolo-sofia&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="paolo-sofia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paolo-sofia" alt="paolo-sofia" /></a> </p>
