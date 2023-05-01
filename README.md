@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on **Pandas,Scikit-learn, pytorch, tensorflow**
+- 👯 I’m looking to collaborate on **Pandas, Scikit-learn, Pytorch, Tensorflow**
 
 - 💬 Ask me about **Data science,machine learning, deep learning**
 
