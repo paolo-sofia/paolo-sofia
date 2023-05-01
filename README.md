@@ -32,6 +32,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paolo-sofia&" alt="paolo-sofia" /></p>
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
+
+</details>
 
 
