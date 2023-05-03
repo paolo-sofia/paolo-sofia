@@ -53,11 +53,11 @@
 
 ### GitHub Activity
   <!--START_SECTION:activity-->
-  1. 🎉 Merged PR [#6](https://github.com/paolo-sofia/age-estimation-project/pull/6) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
-  2. 💪 Opened PR [#6](https://github.com/paolo-sofia/age-estimation-project/pull/6) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
-  3. 🎉 Merged PR [#5](https://github.com/paolo-sofia/age-estimation-project/pull/5) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
-  4. 💪 Opened PR [#5](https://github.com/paolo-sofia/age-estimation-project/pull/5) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
-  5. 🎉 Merged PR [#4](https://github.com/paolo-sofia/age-estimation-project/pull/4) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
+1. 🎉 Merged PR [#6](https://github.com/paolo-sofia/age-estimation-project/pull/6) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
+2. 💪 Opened PR [#6](https://github.com/paolo-sofia/age-estimation-project/pull/6) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
+3. 🎉 Merged PR [#5](https://github.com/paolo-sofia/age-estimation-project/pull/5) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
+4. 💪 Opened PR [#5](https://github.com/paolo-sofia/age-estimation-project/pull/5) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
+5. 🎉 Merged PR [#4](https://github.com/paolo-sofia/age-estimation-project/pull/4) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
   <!--END_SECTION:activity-->
 
 
