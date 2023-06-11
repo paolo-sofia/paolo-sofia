@@ -53,11 +53,11 @@
 
 ### GitHub Activity
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/paolo-sofia/age-estimation-project/pull/6) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
-2. 💪 Opened PR [#6](https://github.com/paolo-sofia/age-estimation-project/pull/6) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
-3. 🎉 Merged PR [#5](https://github.com/paolo-sofia/age-estimation-project/pull/5) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
-4. 💪 Opened PR [#5](https://github.com/paolo-sofia/age-estimation-project/pull/5) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
-5. 🎉 Merged PR [#4](https://github.com/paolo-sofia/age-estimation-project/pull/4) in [paolo-sofia/age-estimation-project](https://github.com/paolo-sofia/age-estimation-project)
+1. 🎉 Merged PR [#3](https://github.com/paolo-sofia/background-setter/pull/3) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
+2. 💪 Opened PR [#3](https://github.com/paolo-sofia/background-setter/pull/3) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
+3. 🎉 Merged PR [#2](https://github.com/paolo-sofia/background-setter/pull/2) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
+4. 💪 Opened PR [#2](https://github.com/paolo-sofia/background-setter/pull/2) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
+5. 🎉 Merged PR [#1](https://github.com/paolo-sofia/background-setter/pull/1) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
   <!--END_SECTION:activity-->
 
 
