@@ -53,11 +53,11 @@
 
 ### GitHub Activity
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/paolo-sofia/background-setter/pull/3) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
-2. 💪 Opened PR [#3](https://github.com/paolo-sofia/background-setter/pull/3) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
-3. 🎉 Merged PR [#2](https://github.com/paolo-sofia/background-setter/pull/2) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
-4. 💪 Opened PR [#2](https://github.com/paolo-sofia/background-setter/pull/2) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
-5. 🎉 Merged PR [#1](https://github.com/paolo-sofia/background-setter/pull/1) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
+1. 🎉 Merged PR [#8](https://github.com/paolo-sofia/background-setter/pull/8) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
+2. 💪 Opened PR [#8](https://github.com/paolo-sofia/background-setter/pull/8) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
+3. 🎉 Merged PR [#7](https://github.com/paolo-sofia/background-setter/pull/7) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
+4. 💪 Opened PR [#7](https://github.com/paolo-sofia/background-setter/pull/7) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
+5. 🎉 Merged PR [#6](https://github.com/paolo-sofia/background-setter/pull/6) in [paolo-sofia/background-setter](https://github.com/paolo-sofia/background-setter)
   <!--END_SECTION:activity-->
 
 
