@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paolo Sofia</h1>
 
-### A passionate data scientist looking for a new job.
+### A passionate data engineer with experience in data science.
 
 ### Here you can take a look at [my cv](https://drive.google.com/file/d/1nHZJWvI6fmaFNCpOS4rFRodcyHScY2dm/view?usp=drive_link)
 
